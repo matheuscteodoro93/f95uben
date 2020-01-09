@@ -1,0 +1,298 @@
+
+set term png
+set output "output/100.png"
+splot "output/100" u 1:2:3 w l
+set term png
+set output "output/1000.png"
+splot "output/1000" u 1:2:3 w l
+set term png
+set output "output/1100.png"
+splot "output/1100" u 1:2:3 w l
+set term png
+set output "output/1200.png"
+splot "output/1200" u 1:2:3 w l
+set term png
+set output "output/1300.png"
+splot "output/1300" u 1:2:3 w l
+set term png
+set output "output/1400.png"
+splot "output/1400" u 1:2:3 w l
+set term png
+set output "output/1500.png"
+splot "output/1500" u 1:2:3 w l
+set term png
+set output "output/1600.png"
+splot "output/1600" u 1:2:3 w l
+set term png
+set output "output/1700.png"
+splot "output/1700" u 1:2:3 w l
+set term png
+set output "output/1800.png"
+splot "output/1800" u 1:2:3 w l
+set term png
+set output "output/1900.png"
+splot "output/1900" u 1:2:3 w l
+set term png
+set output "output/200.png"
+splot "output/200" u 1:2:3 w l
+set term png
+set output "output/2000.png"
+splot "output/2000" u 1:2:3 w l
+set term png
+set output "output/2100.png"
+splot "output/2100" u 1:2:3 w l
+set term png
+set output "output/2200.png"
+splot "output/2200" u 1:2:3 w l
+set term png
+set output "output/2300.png"
+splot "output/2300" u 1:2:3 w l
+set term png
+set output "output/2400.png"
+splot "output/2400" u 1:2:3 w l
+set term png
+set output "output/2500.png"
+splot "output/2500" u 1:2:3 w l
+set term png
+set output "output/2600.png"
+splot "output/2600" u 1:2:3 w l
+set term png
+set output "output/2700.png"
+splot "output/2700" u 1:2:3 w l
+set term png
+set output "output/2800.png"
+splot "output/2800" u 1:2:3 w l
+set term png
+set output "output/2900.png"
+splot "output/2900" u 1:2:3 w l
+set term png
+set output "output/300.png"
+splot "output/300" u 1:2:3 w l
+set term png
+set output "output/3000.png"
+splot "output/3000" u 1:2:3 w l
+set term png
+set output "output/3100.png"
+splot "output/3100" u 1:2:3 w l
+set term png
+set output "output/3200.png"
+splot "output/3200" u 1:2:3 w l
+set term png
+set output "output/3300.png"
+splot "output/3300" u 1:2:3 w l
+set term png
+set output "output/3400.png"
+splot "output/3400" u 1:2:3 w l
+set term png
+set output "output/3500.png"
+splot "output/3500" u 1:2:3 w l
+set term png
+set output "output/3600.png"
+splot "output/3600" u 1:2:3 w l
+set term png
+set output "output/3700.png"
+splot "output/3700" u 1:2:3 w l
+set term png
+set output "output/3800.png"
+splot "output/3800" u 1:2:3 w l
+set term png
+set output "output/3900.png"
+splot "output/3900" u 1:2:3 w l
+set term png
+set output "output/400.png"
+splot "output/400" u 1:2:3 w l
+set term png
+set output "output/4000.png"
+splot "output/4000" u 1:2:3 w l
+set term png
+set output "output/4100.png"
+splot "output/4100" u 1:2:3 w l
+set term png
+set output "output/4200.png"
+splot "output/4200" u 1:2:3 w l
+set term png
+set output "output/4300.png"
+splot "output/4300" u 1:2:3 w l
+set term png
+set output "output/4400.png"
+splot "output/4400" u 1:2:3 w l
+set term png
+set output "output/4500.png"
+splot "output/4500" u 1:2:3 w l
+set term png
+set output "output/4600.png"
+splot "output/4600" u 1:2:3 w l
+set term png
+set output "output/4700.png"
+splot "output/4700" u 1:2:3 w l
+set term png
+set output "output/4800.png"
+splot "output/4800" u 1:2:3 w l
+set term png
+set output "output/4900.png"
+splot "output/4900" u 1:2:3 w l
+set term png
+set output "output/500.png"
+splot "output/500" u 1:2:3 w l
+set term png
+set output "output/5000.png"
+splot "output/5000" u 1:2:3 w l
+set term png
+set output "output/5100.png"
+splot "output/5100" u 1:2:3 w l
+set term png
+set output "output/5200.png"
+splot "output/5200" u 1:2:3 w l
+set term png
+set output "output/5300.png"
+splot "output/5300" u 1:2:3 w l
+set term png
+set output "output/5400.png"
+splot "output/5400" u 1:2:3 w l
+set term png
+set output "output/5500.png"
+splot "output/5500" u 1:2:3 w l
+set term png
+set output "output/5600.png"
+splot "output/5600" u 1:2:3 w l
+set term png
+set output "output/5700.png"
+splot "output/5700" u 1:2:3 w l
+set term png
+set output "output/5800.png"
+splot "output/5800" u 1:2:3 w l
+set term png
+set output "output/5900.png"
+splot "output/5900" u 1:2:3 w l
+set term png
+set output "output/600.png"
+splot "output/600" u 1:2:3 w l
+set term png
+set output "output/6000.png"
+splot "output/6000" u 1:2:3 w l
+set term png
+set output "output/6100.png"
+splot "output/6100" u 1:2:3 w l
+set term png
+set output "output/6200.png"
+splot "output/6200" u 1:2:3 w l
+set term png
+set output "output/6300.png"
+splot "output/6300" u 1:2:3 w l
+set term png
+set output "output/6400.png"
+splot "output/6400" u 1:2:3 w l
+set term png
+set output "output/6500.png"
+splot "output/6500" u 1:2:3 w l
+set term png
+set output "output/6600.png"
+splot "output/6600" u 1:2:3 w l
+set term png
+set output "output/6700.png"
+splot "output/6700" u 1:2:3 w l
+set term png
+set output "output/6800.png"
+splot "output/6800" u 1:2:3 w l
+set term png
+set output "output/6900.png"
+splot "output/6900" u 1:2:3 w l
+set term png
+set output "output/700.png"
+splot "output/700" u 1:2:3 w l
+set term png
+set output "output/7000.png"
+splot "output/7000" u 1:2:3 w l
+set term png
+set output "output/7100.png"
+splot "output/7100" u 1:2:3 w l
+set term png
+set output "output/7200.png"
+splot "output/7200" u 1:2:3 w l
+set term png
+set output "output/7300.png"
+splot "output/7300" u 1:2:3 w l
+set term png
+set output "output/7400.png"
+splot "output/7400" u 1:2:3 w l
+set term png
+set output "output/7500.png"
+splot "output/7500" u 1:2:3 w l
+set term png
+set output "output/7600.png"
+splot "output/7600" u 1:2:3 w l
+set term png
+set output "output/7700.png"
+splot "output/7700" u 1:2:3 w l
+set term png
+set output "output/7800.png"
+splot "output/7800" u 1:2:3 w l
+set term png
+set output "output/7900.png"
+splot "output/7900" u 1:2:3 w l
+set term png
+set output "output/800.png"
+splot "output/800" u 1:2:3 w l
+set term png
+set output "output/8000.png"
+splot "output/8000" u 1:2:3 w l
+set term png
+set output "output/8100.png"
+splot "output/8100" u 1:2:3 w l
+set term png
+set output "output/8200.png"
+splot "output/8200" u 1:2:3 w l
+set term png
+set output "output/8300.png"
+splot "output/8300" u 1:2:3 w l
+set term png
+set output "output/8400.png"
+splot "output/8400" u 1:2:3 w l
+set term png
+set output "output/8500.png"
+splot "output/8500" u 1:2:3 w l
+set term png
+set output "output/8600.png"
+splot "output/8600" u 1:2:3 w l
+set term png
+set output "output/8700.png"
+splot "output/8700" u 1:2:3 w l
+set term png
+set output "output/8800.png"
+splot "output/8800" u 1:2:3 w l
+set term png
+set output "output/8900.png"
+splot "output/8900" u 1:2:3 w l
+set term png
+set output "output/900.png"
+splot "output/900" u 1:2:3 w l
+set term png
+set output "output/9000.png"
+splot "output/9000" u 1:2:3 w l
+set term png
+set output "output/9100.png"
+splot "output/9100" u 1:2:3 w l
+set term png
+set output "output/9200.png"
+splot "output/9200" u 1:2:3 w l
+set term png
+set output "output/9300.png"
+splot "output/9300" u 1:2:3 w l
+set term png
+set output "output/9400.png"
+splot "output/9400" u 1:2:3 w l
+set term png
+set output "output/9500.png"
+splot "output/9500" u 1:2:3 w l
+set term png
+set output "output/9600.png"
+splot "output/9600" u 1:2:3 w l
+set term png
+set output "output/9700.png"
+splot "output/9700" u 1:2:3 w l
+set term png
+set output "output/9800.png"
+splot "output/9800" u 1:2:3 w l
+set term png
+set output "output/9900.png"
+splot "output/9900" u 1:2:3 w l

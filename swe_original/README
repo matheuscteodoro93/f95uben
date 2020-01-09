@@ -1,0 +1,32 @@
+# things you might need
+#Python NetCFD lib
+
+$ pip install netCDF4
+
+#fortran netCDF lib
+
+$ sudo apt-get install libnetcdf-dev libnetcdff-dev
+
+#check where the lib was installed (for a consistent MakeFile)
+
+$ nf-config --all
+
+#and to make a video later u might want to have
+
+sudo apt-get install ffmpeg
+
+
+
+
+
+#make a movie
+
+$ ffmpeg -r 12 -i output/%d.png -vcodec libx264 -y -an video.mp4 -vf "pad=ceil(iw/2)*2:ceil(ih/2)*2"
+
+
+
+#This examaple was extracted from
+
+https://github.com/arunprasaad2711/Youtube_Tutorials/tree/master/Scientific_models/SWE_Model
+
+#I just changed small things and the data analysis script, to make it run faster.
